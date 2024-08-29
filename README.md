@@ -12,3 +12,6 @@ Name: Marly
 Favorite Ice Cream: Coffee
 Favorite Candy: Reese's PeanutButter Cups
 
+Name: Natalie
+Favorite Ice Cream: Vanilla
+Favorite Candy: Don't like Candy lol
